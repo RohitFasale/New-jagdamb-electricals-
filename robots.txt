@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://newjagdambelectricals.netlify.app/sitemap.xml
